@@ -146,7 +146,7 @@ interface NotificationLog {
    Create a `.env` file in the root directory with the following content:
    ```env
    MONGODB_URI=mongodb://localhost:27017/notification-preferences
-   JWT_SECRET=your_jwt_secret
+   
    ```
 
 4. Run the application locally:
